@@ -1,0 +1,22 @@
+{
+  "name": "Cobro Rápido Bus",
+  "short_name": "Cobro Bus",
+  "description": "Aplicación de cobro rápido con QR para conductores de autobús.",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#34495e",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
